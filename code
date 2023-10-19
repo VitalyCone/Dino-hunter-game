@@ -852,4 +852,4 @@ while game_run:
     if dying_l == False and dying_r == False and game_play == True:
         clock.tick(60)
     if game_play == False:
-        clock.tick(10)
+        clock.tick(60)
